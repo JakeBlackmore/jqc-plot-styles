@@ -1,0 +1,26 @@
+font.sans-serif : Arial
+font.size : 15
+
+figure.figsize : 10, 5
+
+lines.linewidth : 2.0
+xtick.direction : out
+xtick.minor.visible  : True
+xtick.labelsize      : medium
+xtick.top : False
+xtick.major.size : 6.0
+xtick.minor.size : 3.0
+xtick.major.width : 1.5
+xtick.minor.width : 1.0
+
+ytick.right : False
+ytick.direction : out
+ytick.minor.visible  : True
+ytick.labelsize      : medium
+ytick.major.size : 6.0
+ytick.minor.size : 3.0
+ytick.major.width : 1.5
+ytick.minor.width : 1.0
+
+axes.formatter.useoffset : False
+axes.linewidth : 1.5

@@ -1,2 +1,1 @@
-# jqc-plot-styles
-Plotting styles as used in JQC
+Simple plotting package for fixing style of matplotlib figures to match uses in JQC works. Includes JQC Dur-New colour palette.

@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: jqc
+Version: 0.0.1
+Summary: A small package for standardising plots using jqc styles
+Home-page: UNKNOWN
+Author: Jake Blackmore
+Author-email: j.a.blackmore@durham.ac.uk
+License: UNKNOWN
+Description: Simple plotting package for personal use
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
