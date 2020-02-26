@@ -31,7 +31,7 @@ def plot_style(style=None):
 	cwd = os.path.dirname(os.path.abspath(__file__))
 
 	fpath = os.path.join(cwd,"StyleFiles","")
-
+	stylefile='default.mplstyle'
 	if style != None:
 		style = style.lower()
 		if style in ["two column","twocolumn","wide"]:
